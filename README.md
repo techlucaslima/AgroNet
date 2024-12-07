@@ -1,5 +1,5 @@
 # AgroNet
-Uma plataforma feita para aproximar consumidores e agricultores de todo o Brasil.
+Uma plataforma feita para aproximar consumidores e agricultores de todo o Brasil!
 
 # Como testar o site localmente
 
